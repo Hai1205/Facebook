@@ -1,0 +1,18 @@
+export enum MESSAGE_TYPE_ENUM {
+    TEXT = "TEXT",
+    IMAGE = "IMAGE",
+    FILE = "FILE",
+    AUDIO = "AUDIO",
+    VIDEO = "VIDEO",
+    LOCATION = "LOCATION",
+    STICKER = "STICKER"
+}
+
+export enum MESSAGE_STATUS_ENUM {
+    SENDING = "SENDING",
+    SENT = "SENT",
+    DELIVERED = "DELIVERED",
+    READ = "READ",
+    FAILED = "FAILED",
+    DELETED = "DELETED"
+} 
