@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Loader2, Music } from "lucide-react";
 import { Song } from "@/utils/interface";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";

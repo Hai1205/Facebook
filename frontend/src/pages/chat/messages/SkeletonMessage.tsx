@@ -1,5 +1,3 @@
-import React from "react";
-
 export function SkeletonMessage() {
   return (
     <div className="animate-pulse mb-3 flex flex-col gap-2">

@@ -165,9 +165,9 @@ const ManagePostsDialog = ({
 
                                   <TableCell className="text-center">
                                     <Badge
-                                      className={mediaTypeStyles[post.mediaType]}
+                                      className={mediaTypeStyles[post.mediaTypes?.[0]]}
                                     >
-                                      {post.mediaType}
+                                      {post.mediaTypes?.[0] ?? "N/A"}
                                     </Badge>
                                   </TableCell>
 

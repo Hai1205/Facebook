@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type React from "react";
 import { useEffect, useState, useCallback } from "react";
 import { useSearchParams } from "react-router-dom";

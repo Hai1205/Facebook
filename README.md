@@ -17,42 +17,42 @@ git clone https://github.com/Hai1205/Facebook.git
 
 ### Home Page
 
-![Home Page](assets/home_page.png)
+![Home Page](assets/images/home_page.png)
 
 ### Profile Page
 
-![Profile Page](assets/profile_page.png)
+![Profile Page](assets/images/profile_page.png)
 
 ### Settings Page
 
-![Settings Page](assets/settings_page.png)
+![Settings Page](assets/images/settings_page.png)
 
 ### Admin Dashboard Page
 
-![Admin Dashboard Page](assets/admin_dashboard_page.png)
+![Admin Dashboard Page](assets/images/admin_dashboard_page.png)
 
 ### User Management Page
 
-![User Management Page](assets/user_management_page.png)
+![User Management Page](assets/images/user_management_page.png)
 
 ### Post Management Page
 
-![Post Management Page](assets/post_management_page.png)
+![Post Management Page](assets/images/post_management_page.png)
 
 ### Login Page
-![Login Page](assets/login_page.png)
+![Login Page](assets/images/login_page.png)
 
 ### Register Page
 
-![Register Page](assets/register_page.png)
+![Register Page](assets/images/register_page.png)
 
 ### Verify Page
 
-![Verify Page](assets/verify_page.png)
+![Verify Page](assets/images/verify_page.png)
 
 ### Reset Password Page
 
-![Reset Password Page](assets/reset_password_page.png)
+![Reset Password Page](assets/images/reset_password_page.png)
 
 ## License
 

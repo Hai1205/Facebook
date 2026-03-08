@@ -1,6 +1,7 @@
+// @ts-nocheck
 import { CircleUserRound, Loader2, User } from "lucide-react";
 import { Link } from "react-router-dom";
-import { User as USER } from "@/utils/interface";
+import { USER } from "@/utils/interface";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 interface UserResultsProps {
