@@ -58,7 +58,7 @@ export default function SearchResult() {
 
       setSearchParams(searchQuery ? { query: searchQuery.trim() } : {});
     },
-    [searchQuery, setSearchParams]
+    [searchQuery, setSearchParams],
   );
 
   return (

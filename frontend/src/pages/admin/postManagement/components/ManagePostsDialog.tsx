@@ -45,7 +45,7 @@ const ManagePostsDialog = ({
     IMAGE: "text-blue-500 border-blue-500",
     VIDEO: "text-purple-500 border-purple-500",
   };
-  
+
   const privacyStyles = {
     PUBLIC: "text-green-500 border-green-500",
     PRIVATE: "text-gray-500 border-gray-500",
@@ -165,7 +165,9 @@ const ManagePostsDialog = ({
 
                                   <TableCell className="text-center">
                                     <Badge
-                                      className={mediaTypeStyles[post.mediaTypes?.[0]]}
+                                      className={
+                                        mediaTypeStyles[post.mediaTypes?.[0]]
+                                      }
                                     >
                                       {post.mediaTypes?.[0] ?? "N/A"}
                                     </Badge>
@@ -189,7 +191,7 @@ const ManagePostsDialog = ({
 
                                   <TableCell className="text-center">
                                     {formatDateInDDMMYYY(
-                                      post.createdAt as string
+                                      post.createdAt as string,
                                     )}
                                   </TableCell>
 
